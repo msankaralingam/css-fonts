@@ -1,0 +1,45 @@
+h1{
+	font-style:italic;
+	text-align:center;
+}
+.no1{
+	font-style:oblique;
+	font-size:20px;
+}
+.no2{
+	font-style:italic;
+	font-size:15px;
+}
+.no3{
+	font-weight:bold;
+font-size:20px;
+color:#009933;
+
+}
+.no4{
+	font-weight:lighter;
+font-size:50px;
+color:#ffff00;	
+}
+.no5{
+	font-weight:normal;
+font-size:25px;
+color:#0000ff
+}
+.no6{
+	font-weight:900;
+font-size:30px;
+color:#ff3300;	
+}
+.no7{
+	font-family: 'Nunito Sans', sans-serif;
+}
+.no8{
+	font-variant:small-caps;
+	font-size:30px;
+	color:#9900cc;
+}
+
+
+
+
